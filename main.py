@@ -25,7 +25,7 @@ from telegram.ext import (
 # --- 1. CONFIGURATION ---
 # 🛑 WARNING: Revoke this token and use a new one!
 BOT_TOKEN = "8098953695:AAF50GoYSNhjpvDGyOLIIvcamz-zU3WTDj0"
-ADMIN_CHAT_IDS = [7857898495, 6373993818]
+ADMIN_CHAT_ID = [7857898495, 6373993818]
 BLOG_RSS_URL = "https://shinmonmovies.blogspot.com/feeds/posts/default?alt=rss"
 DB_NAME = "bot_database.db"
 # --- End of Configuration ---
